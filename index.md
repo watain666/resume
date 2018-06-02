@@ -56,7 +56,7 @@ PHP 程式設計師
 * PHP
     * CRUD 程式、RESTful API 串接
 * Python
-    * 能寫一些簡單的爬蟲
+    * 寫過一些爬蟲
 
 ### Database
 
