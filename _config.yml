@@ -1,13 +1,13 @@
 theme: jekyll-theme-minimal
 
 # Site
-title: Resume Rex
+title: Resume
 english-name: Rex Liu
 chinese-name: 劉晁維
-description: 喜歡貓, 單寧, 美式風格, 金屬樂.
+description: 喜歡吸收新知識, 更喜歡透過程式解決問題獲得的成就感
 logo: ./images/me.jpg
 locale: zh_TW
-location: Neihu/Taipei, Taiwan.
+location: Neihu, Taipei, Taiwan.
 blog: https://watain666.github.io
 
 # Google Analytics
@@ -16,10 +16,10 @@ google-analytics: UA-101482320-2
 # Social Links
 email: watain666666@gmail.com
 github: watain666
-linkedin: tiâu-uî-lâu-aab963141
-twitter: TiauUILau
-facebook: watain666
-instagram: doordie666
+# linkedin: tiâu-uî-lâu-aab963141
+# twitter: TiauUILau
+# facebook: watain666
+# instagram: doordie666
 
 # Build settings
 markdown: kramdown
