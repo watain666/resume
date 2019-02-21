@@ -30,9 +30,9 @@ PHP 程式設計師
 * PHP
     * 自學，有 OOP、MVC、PSR 觀念，實做 CRUD、AJAX、RESTful API、開源 API 串接等功能
 * Java
-    * 大學必修課，有 OOP 觀念 Oracle 沒有好感，就沒有繼續深入學習
+    * 大學必修課，有 OOP 觀念，因為對 Oracle 公司的訟棍行為沒有好感，就沒有繼續深入學習
 * Python
-    * 大學時因課程需求寫過機票票價爬蟲，平常有用 591 ，歌詞這類單純的爬蟲工具
+    * 大學時因課程需求有用 Python 寫過機票票價爬蟲，比較常用的是爬 591 和爬 Spotify 現在播放的歌詞這些爬蟲
 
 ### Frontend / 前端
 
@@ -61,9 +61,3 @@ PHP 程式設計師
     * PHPBrew
     * Shell Script
     * DigitalOcean
-
-## <i class="fas fa-graduation-cap"></i> Education / 學歷
-
-### 文化大學
-
-資訊管理系  2013 ~ 2017
