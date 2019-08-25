@@ -1,8 +1,18 @@
 ## <i class="fas fa-users"></i> Experience / 經歷
 
-### 銀河互動網路
+### 香港商新魂資訊科技服務有限公司
 
-2017/12 ~ Now (1.5 Year+)
+2019/5 ~ Now
+
+PHP 開發工程師
+
+* 開發風險控制功能，當注點達到設定的指數時即時發出風險報告，讓監控人員可以即時掌控遊戲虧損的情況做出對策盡速止血
+* 開發遊戲後台及 API 的 ip 白名單功能，強化系統安全性
+* 開發下注限制後台效驗，阻檔繞過前台的不正常的下注
+
+### 銀河互動網路股份有限公司
+
+2017/12 ~ 2019/4 (1.4 Years)
 
 PHP 程式設計師
 
@@ -12,7 +22,7 @@ PHP 程式設計師
 * 使用 Library + Swagger 快速部屬子系統 API 及互動式文件，節省開發 API 及撰寫/維護文件的時間
 * 客戶網站後台開發
 
-### 銀河互動網路
+### 銀河互動網路股份有限公司
 
 2013/11 ~ 2017/11 (4 Years)
 
@@ -31,42 +41,39 @@ PHP 程式設計師
 ### Backend / 後端
 
 * PHP
-  * 有 OOP、MVC、PSR 觀念，實做 CRUD、AJAX、RESTful API、開源 API 串接等功能
+  * ThinkPHP
 * Python
-  * 大學時因課程需求有用 Python 寫過機票票價爬蟲，現在比較常用的是爬 591 和爬 Spotify 現在播放的歌詞這類生活上的工具爬蟲
+* Java
 
 ### Frontend / 前端
 
 * JavaScript
+  * Vue.js
 * HTML5
 * CSS3
 * Bootstrap
-  * 前端的技能沒有點到後端那麼精，只有符合目前的工作及自己使用需求的程度，舉例來說，如果要我用純 CSS 切板的話，可能就會比較有困難，但是如果要用 Boostrap 拉 Layout 就沒問題。
 
 ### Database / 資料庫
 
 * MySQL / MariaDB
-  * 目前工作上的使用都是使用 MySQL，自己使用會選擇 MariaDB
 * MSSQL
-  * 大學資料庫課程是教 MSSQL
 
 ### Tools / 工具
 
 * Editor
+  * PhpStorm
   * VS Code
-    * 以前用 Sublime Text 3，用過 VS Code 後就回不去了
+  * Sublime Text 3
   * Vim
-    * CLI 都使用 Vim 作為主要編輯器
 * Operating System
   * Ubuntu
-    * 從 14.04 開始用到現在 18.04
   * macOS
-    * 大學時買不起 Mac/Macbook 只能在 VirtualBox 上裝 Hackintosh 做 iOS 的開發
+* Version Control
+  * Git
+  * SVN
 * Static Site Generators
   * Jekyll
-  * Hugo
 * Other
-  * Git
   * Xdebug
   * PHPBrew
   * Composer
