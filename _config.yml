@@ -2,16 +2,17 @@ theme: jekyll-theme-minimal
 
 # Site
 title: Resume
-english-name: Rex Lâu
+taioan-name: Lâu TiâuÛi
 chinese-name: 劉晁維
-description: 喜歡吸收新知識, 更喜歡透過程式解決問題獲得的成就感
+english-name: Rex
+description: 喜歡吸收新知識<br>享受透過程式解決各種挑戰獲得的成就感
 # logo: ./images/me.jpg
 locale: zh_TW
 location: Taipei, Taiwan.
-blog: https://watain666.github.io
+blog: https://tiaui.co
 
 # Google Analytics
-google-analytics: UA-101482320-2
+# google-analytics: UA-101482320-2
 
 # Social Links
 email: watain666666@gmail.com

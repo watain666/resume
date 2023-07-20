@@ -35,42 +35,41 @@
         <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
         {% endif %}
         <h2>
-          <span class="english-name">{{ site.english-name }}</span>
-          <span class="chinese-name">{{ site.chinese-name }}</span>
+          {% if site.taioan-name %}<span class="taioan-name">{{ site.taioan-name }}</span>{% endif %}
+          {% if site.chinese-name %}<span class="chinese-name">{{ site.chinese-name }}</span>{% endif %}
+          {% if site.english-name %}<span class="english-name">{{ site.english-name }}</span>{% endif %}
         </h2>
-
         <p class="bio">{{ site.description }}</p>
 
         <hr>
 
         {% if site.location %}
         <div>
-          <i class="fas fa-location-arrow"></i> <a href="https://www.google.com/maps/place/{{ site.location }}">{{ site.location }}</a>
+          <a target="_blank" href="https://www.google.com/maps/place/{{ site.location }}"><i class="fas fa-location-arrow"></i> {{ site.location }}</a>
         </div>
         {% endif %}
 
         {% if site.email %}
         <div>
-          <i class="far fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <a target="_blank" href="mailto:{{ site.email }}"><i class="far fa-envelope"></i> {{ site.email }}</a>
         </div>
         {% endif %}
 
         {% if site.blog %}
         <div>
-          <i class="fas fa-link"></i> <a href="{{ site.blog }}" >{{ site.blog }}</a>
+          <a target="_blank" href="{{ site.blog }}"><i class="fas fa-link"></i> {{ site.blog }}</a>
         </div>
         {% endif %}
 
         {% if site.github %}
         <div>
-          <i class="fab fa-github"></i></i> <a href="https://github.com/{{ site.github }}">https://github.com/{{ site.github }}</a>
+          <a target="_blank" href="https://github.com/{{ site.github }}"><i class="fab fa-github"></i></i> https://github.com/{{ site.github }}</a>
         </div>
         {% endif %}
 
         {% include social-links.html %}
         <sub class="no-print">
           Hosted on GitHub Pages<br>
-          Theme by <a href="//github.com/orderedlist">orderedlist</a>
         </sub>
 
         <i id="gotop" class="fa fa-arrow-circle-up fixed no-print"></i>
